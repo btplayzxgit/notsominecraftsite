@@ -1,0 +1,37 @@
+body{
+    background: green;
+}
+
+h1{
+    color: rgb(0, 75, 12);
+    font-family: 'Anton', sans-serif;
+}
+
+h2{
+    color: rgb(0, 75, 12);
+    font-family: 'Anton', sans-serif;
+}
+h3{
+    color: rgb(0, 75, 12);
+    font-family: 'Anton', sans-serif;
+}
+
+a{
+    color: rgb(75, 0, 0);
+    font-family: 'Anton', sans-serif;
+}
+
+p{
+    font-family: 'Anton', sans-serif;
+}
+
+b{
+    color: rgb(75, 0, 0);
+    font-family: 'Anton', sans-serif;
+}
+
+img{
+    border-color: lawngreen;
+    border-width: thick;
+    border-style: solid;
+}
